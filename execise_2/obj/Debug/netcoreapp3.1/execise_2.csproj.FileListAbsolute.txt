@@ -1,0 +1,12 @@
+C:\Users\HP Pavillion\source\repos\execise_2\execise_2\bin\Debug\netcoreapp3.1\execise_2.exe
+C:\Users\HP Pavillion\source\repos\execise_2\execise_2\bin\Debug\netcoreapp3.1\execise_2.deps.json
+C:\Users\HP Pavillion\source\repos\execise_2\execise_2\bin\Debug\netcoreapp3.1\execise_2.runtimeconfig.json
+C:\Users\HP Pavillion\source\repos\execise_2\execise_2\bin\Debug\netcoreapp3.1\execise_2.runtimeconfig.dev.json
+C:\Users\HP Pavillion\source\repos\execise_2\execise_2\bin\Debug\netcoreapp3.1\execise_2.dll
+C:\Users\HP Pavillion\source\repos\execise_2\execise_2\bin\Debug\netcoreapp3.1\execise_2.pdb
+C:\Users\HP Pavillion\source\repos\execise_2\execise_2\obj\Debug\netcoreapp3.1\execise_2.AssemblyInfoInputs.cache
+C:\Users\HP Pavillion\source\repos\execise_2\execise_2\obj\Debug\netcoreapp3.1\execise_2.AssemblyInfo.cs
+C:\Users\HP Pavillion\source\repos\execise_2\execise_2\obj\Debug\netcoreapp3.1\execise_2.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavillion\source\repos\execise_2\execise_2\obj\Debug\netcoreapp3.1\execise_2.dll
+C:\Users\HP Pavillion\source\repos\execise_2\execise_2\obj\Debug\netcoreapp3.1\execise_2.pdb
+C:\Users\HP Pavillion\source\repos\execise_2\execise_2\obj\Debug\netcoreapp3.1\execise_2.genruntimeconfig.cache
